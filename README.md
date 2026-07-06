@@ -1,4 +1,4 @@
-# 🏍️ Enterprise AI Agent for Manufacturing Industry: An LLM-powered GraphRAG Assistant for architecting Smarter Supply Chains and Shop Floor Operations.
+# 🏍️ Enterprise AI Agent for Manufacturing Industry: An LLM-powered GraphRAG Assistant for architecting Smarter Supply Chains and Shop Floor Operations Optmization.
 
 An advanced, self-healing **Enterprise AI Agent** built for the **Manufacturing Industry** to automate regulatory compliance and logistics mapping. This project leverages **LLM Grounding with Knowledge Graphs** (**GraphRAG**) to execute complex **multi-hop queries** across global automotive standards with total **hallucinations** reduction. 
 
