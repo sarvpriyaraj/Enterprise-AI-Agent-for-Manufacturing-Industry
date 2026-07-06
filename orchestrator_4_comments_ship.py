@@ -10,7 +10,8 @@ from langchain_neo4j import Neo4jGraph  # Imports the graph connection framework
 # ---------------------------------------------------------
 NEO4J_URI = "bolt://localhost:7687"  # Configures the active bolt network connection link for your database instance.
 NEO4J_USERNAME = "neo4j"  # Establishes the admin authentication username identification profile parameter.
-NEO4J_PASSWORD = "MotorcycleProduction_1_30*"  # Stores the protected security key used to access target database schemas.
+NEO4J_PASSWORD = "************"  # Stores the protected security key used to access target database schemas.
+                                 # As mentioned in the regulations - 🚨REMINDER: DO NOT INCLUDE ANY API KEYS OR PASSWORDS IN YOUR CODE.
 
 graph = None  # Instantiates an empty base global pointer slot for tracking the active graph engine.
 
